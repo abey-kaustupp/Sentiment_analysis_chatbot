@@ -1,0 +1,2 @@
+nltk
+# tkinter is included with Python's standard library, no need to install separately
